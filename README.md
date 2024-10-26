@@ -5,7 +5,7 @@
 </div>
 
 <p align="left">
-  <img align="center" src="[https://i.imgur.com/1ZvVkDc.gif](https://www.behance.net/gallery/107812099/Honeymoon)" alt="Imagem">
+  <img align="center" src="https://www.behance.net/gallery/107812099/Honeymoon" alt="Imagem">
 </p>
 
 <!-- Presentation -->
@@ -32,24 +32,3 @@
 <!-- GithubStats -->
 ![RhubiMarcal GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RhubiMarcal&show_icons=true&theme=gotham)
 ![RhubiMarcal GitHub stats](https://github-readme-stats.vercel.app/api?username=RhubiMarcal&show_icons=true&theme=gotham)
-
-
-## 🔥 Skills
-<div style="flex-basis: 48%;">
-    <h3>Languages</h3>
-    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
-
-<div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-    <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
-    <img align="center" alt="Flask" height="30" width="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-    <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
-</div>
