@@ -10,24 +10,18 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Kaique! I'm a student and full stack developer from Brazil.
+ 👋 Olá, sou Rhubi! Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Tenho uma forte paixão por tecnologia da informação e estou sempre em busca de novos desafios.
 
-  - 🌱 I am currently studying Systems Analysis and Development at UEPB and pursuing a Full Stack Java course at EBAC.
+💡 Além das habilidades em programação, possuo um interesse especial por UI/UX, sempre procurando maneiras de criar experiências mais intuitivas e envolventes. Também sou fluente em inglês, o que me permite explorar e colaborar em projetos internacionais.
 
-  - 🔭 I love exploring new technologies and facing new challenges.
+🌟 Estou aqui para compartilhar meus projetos e aprender com a comunidade. Se você busca alguém com habilidades de liderança e uma mente criativa para colaborar em iniciativas inovadoras, sinta-se à vontade para entrar em contato!
+
+🚀 Vamos juntos transformar ideias em realidade!
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 19 years old and currently live in Brazil. I have knowledge in web development, Python, and Java. Although I don't have professional experience yet, I feel ready for an internship to gain hands-on learning.
-  
-  - ⚡ I'm a big fan of all geek culture, comics, manga, movies and games are my hobbies. Furthermore, I am fascinated by puzzles like Rubik's cubes. I believe that our personal interests are oriented towards a keener perception of things and better problem-solving skills. \O/
-</details>
-
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaique-luan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhubimarcal/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-C8232C?style=for-the-badge&logo=pinterest&logoColor=white)](https://br.pinterest.com/RhubiMarcal/)
 
 <!-- GithubStats -->
 ![RhubiMarcal GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RhubiMarcal&show_icons=true&theme=gotham)
