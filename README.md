@@ -5,7 +5,7 @@
 </div>
 
 <p align="left">
-  <img align="center" src="[https://www.behance.net/gallery/107812099/Honeymoon](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9fe826107812099.5faf8831d90b0.gif)" alt="Imagem">
+  <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9fe826107812099.5faf8831d90b0.gif" alt="Imagem">
 </p>
 
 <!-- Presentation -->
